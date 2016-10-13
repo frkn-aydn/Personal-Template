@@ -62,7 +62,7 @@ body {
 .profile a {
     text-decoration: none;
     font-family: 'Roboto', Arial, sans-serif;
-    color: #001CFF;
+    color: #404040;
     cursor: pointer;
     padding: 0px 40px;
     display: inline-block;
@@ -74,7 +74,7 @@ body {
     outline: none;
     position: relative;
     font-size: 12px;
-    border: 3px solid #001CFF;
+    border: 3px solid #404040;
     background-color: transparent;
     border-radius: 0 15px 15px;
     -webkit-transition: all 0.3s;
@@ -90,12 +90,12 @@ body {
     height: 0;
     border-style: solid;
     border-width: 0 0 25px 25px;
-    border-color: transparent transparent #001CFF transparent;
+    border-color: transparent transparent #404040 transparent;
     z-index: 1;
 }
 
 .profile a:hover {
-    background-color: #001CFF;
+    background-color: #404040;
     color: #ecf0f1;
 }
 
